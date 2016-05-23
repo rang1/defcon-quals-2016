@@ -1,0 +1,9 @@
+bin
+build
+*.pyc
+pcap
+
+tmp
+dist
+thousand_cuts
+*.tar.bz2
